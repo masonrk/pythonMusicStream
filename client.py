@@ -1,5 +1,4 @@
 # mason kelly
-# cs447
 import socket
 import sys
 import random
